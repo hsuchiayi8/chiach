@@ -1,0 +1,21 @@
+h1{
+   color:green;
+   background-color:rgb(81, 85, 91); 
+text-align:center;
+height:100px;
+border:#000000 5px solid
+font-family:'Noto Sans TC', sans-serif;
+}
+
+.photo{
+    width: 500px;
+    height: 500px;
+    background-image: url("https://p6sadq.dm.files.1drv.com/y4mlRyXnTq-_jA3OBWBPZ20QAzX1rf_XdnFuLdcZPrf542gyhYEIlx5AoOlcq2v4ZxkKehjnbApiJauqgYZcbRQbcBAJYCE0ZhZGCrjWV2heHNnIesht6o15ngD4yKeAraJ2oKUSO-zq2-ezv_xgXpntls0mNnLMG5WAUROnK2qg44wFOvDwd0IBnKy8LZQ-MxsgqKoFxzG4rje_LMOAE0HGQ/20190227_173039.jpg?psid=1");
+background-size: contain;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.粉綠色{
+    background-color: pink
+}
